@@ -49,7 +49,7 @@ ProbablyEngine.rotation.register_custom(269, "Kroniq Windwalker", {
  
   { "Invoke Xuen, The White Tiger", "modifier.cooldowns" },
   { "Touch of Karma", "modifier.cooldowns" },
-  { "Lifebloom" },
+  { "Lifeblood" },
 
 --Interupts
   { "Leg Sweep", {"modifier.interrupts", "target.range <= 5"} },
