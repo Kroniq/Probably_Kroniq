@@ -1,0 +1,9 @@
+## Interface: 50400
+## Title: Probably - Kroniq Rotations
+## Notes: Custom PE Rotations
+## Dependencies: Probably
+
+
+#Rotations
+rotations\guardian.lua
+rotations\windwalker.lua
